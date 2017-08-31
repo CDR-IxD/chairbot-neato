@@ -1,3 +1,6 @@
 [submodule "chairbot-ipad-interface"]
 	path = chairbot-ipad-interface
 	url = https://github.com/abhay-venkatesh/chairbot-interface
+[submodule "control-system"]
+	path = control-system
+	url = https://github.com/abhay-venkatesh/chairbot-control.git
