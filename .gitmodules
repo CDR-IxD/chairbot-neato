@@ -4,3 +4,6 @@
 [submodule "control-system"]
 	path = control-system
 	url = https://github.com/abhay-venkatesh/chairbot-control.git
+[submodule "neato-pi"]
+	path = neato-pi
+	url = https://github.com/CDR-IxD/NeatoPi
