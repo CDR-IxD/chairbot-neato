@@ -74,7 +74,7 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## Authors
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* **Abhay Venkatesh** - *iPad app, interface server, video streaming, adaptation and modification of the OpenCV code to be used with Neato* - [abhay-venkatesh](https://github.com/abhay-venkatesh)
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
