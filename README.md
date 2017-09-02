@@ -13,4 +13,4 @@ These are the separate modules:
 2. Chairbot iPad interface: The iPad app.
 3. Raspberry Pi server: This receives instructions from iPad and/or the OpenCV code and then pipes that into the neato.
 
-Please visit the [wiki](https://github.com/CDR-IxD/chairbot-neato/wiki) for more instructions on the architecture.
+Please visit the [wiki](https://github.com/CDR-IxD/chairbot-neato/wiki) for detailed information on the project.
