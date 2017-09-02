@@ -6,8 +6,11 @@ The software here enables two types of control for the neato-based chairbot:
 
 Both of these control methods use an iPad as the interface.
 
-# Description of modules
+# Architecture
 
-1. Control System 
-2. Chairbot iPad interface
-3. Raspberry Pi server
+These are the separate modules:
+1. Control System: Where the OpenCV code lives, as well as a server for communicating with the iPad.
+2. Chairbot iPad interface: The iPad app.
+3. Raspberry Pi server: This receives instructions from iPad and/or the OpenCV code and then pipes that into the neato.
+
+Please visit the wiki for more instructions on the architecture.
