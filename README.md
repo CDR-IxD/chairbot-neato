@@ -6,4 +6,8 @@ The software here enables two types of control for the neato-based chairbot:
 
 Both of these control methods use an iPad as the interface.
 
-## Installation
+# Description of modules
+
+1. Control System 
+2. Chairbot iPad interface
+3. Raspberry Pi server
